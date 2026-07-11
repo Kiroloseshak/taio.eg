@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769950872865",
+    "project_id": "taio-eg",
+    "storage_bucket": "taio-eg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769950872865:android:d6b1c28f9cc2656c68ba60",
+        "android_client_info": {
+          "package_name": "com.taio.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpkol2DsOC1pJhrQGzuvJyjPAluY0AUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
