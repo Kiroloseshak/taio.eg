@@ -56,6 +56,7 @@ fun TaioApp() {
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun MainScaffold() {
     val navController = rememberNavController()
